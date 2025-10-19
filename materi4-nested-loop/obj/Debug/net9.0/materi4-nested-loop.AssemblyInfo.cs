@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("materi4-nested-loop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+640974717db4bb77ee7e9584d6067e5f97f0143f")]
 [assembly: System.Reflection.AssemblyProductAttribute("materi4-nested-loop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("materi4-nested-loop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

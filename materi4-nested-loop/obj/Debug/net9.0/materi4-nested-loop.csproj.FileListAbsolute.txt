@@ -12,3 +12,4 @@ E:\work\alpro\materi4-nested-loop\obj\Debug\net9.0\refint\materi4-nested-loop.dl
 E:\work\alpro\materi4-nested-loop\obj\Debug\net9.0\materi4-nested-loop.pdb
 E:\work\alpro\materi4-nested-loop\obj\Debug\net9.0\materi4-nested-loop.genruntimeconfig.cache
 E:\work\alpro\materi4-nested-loop\obj\Debug\net9.0\ref\materi4-nested-loop.dll
+E:\work\alpro\materi4-nested-loop\obj\Debug\net9.0\materi4-nested-loop.sourcelink.json
