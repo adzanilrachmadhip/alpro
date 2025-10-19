@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "materi4-nested-loop/1.0.0": {
+        "runtime": {
+          "materi4-nested-loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "materi4-nested-loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
