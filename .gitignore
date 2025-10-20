@@ -1,13 +1,15 @@
-# Build results
+# Build results - ignore ALL bin and obj folders recursively
 **/bin/
 **/obj/
-**/*.user
+**/Debug/
+**/Release/
 
-# Visual Studio
-.vs/
+# Build files
+*.dll
+*.exe
+*.pdb
+*.cache
 
-# VS Code
-.vscode/
-
-# Rider
-.idea/
+# User-specific files
+*.user
+*.suo
