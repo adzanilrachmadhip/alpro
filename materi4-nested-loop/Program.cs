@@ -25,7 +25,7 @@ class nested_looping
         int x = 1;
         int outerNumber = 1;
         do{
-            Console.WriteLine($"{outerNumber}. Outer Loop Yang ke {0} ", x);
+            Console.WriteLine($"{outerNumber}. Outer Loop Yang ke {x} ");
             int y = 1;
             do{
                 Console.WriteLine("   => Inner Loop yang ke {0} ", y);
