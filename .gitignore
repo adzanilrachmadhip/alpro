@@ -1,0 +1,13 @@
+# Build results
+**/bin/
+**/obj/
+**/*.user
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
