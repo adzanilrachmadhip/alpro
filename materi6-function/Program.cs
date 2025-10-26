@@ -180,9 +180,9 @@ class PerhitunganBangunRuang
     // ═══════════════════════════════════════════════════════════
     static void TampilkanHeaderKubus()
     {
-        Console.WriteLine("╔════════════════════════════════════════════╗");
-        Console.WriteLine("║           🟦 PERHITUNGAN KUBUS 🟦         ║");
-        Console.WriteLine("╚════════════════════════════════════════════╝");
+        Console.WriteLine("╔═════════════════════════════════════╗");
+        Console.WriteLine("║           PERHITUNGAN KUBUS         ║");
+        Console.WriteLine("╚═════════════════════════════════════╝");
         Console.WriteLine();
         Console.WriteLine("Informasi:");
         Console.WriteLine("• Kubus memiliki 6 sisi yang sama");
@@ -195,9 +195,9 @@ class PerhitunganBangunRuang
     // ═══════════════════════════════════════════════════════════
     static void TampilkanHeaderBalok()
     {
-        Console.WriteLine("╔════════════════════════════════════════════╗");
-        Console.WriteLine("║           📦 PERHITUNGAN BALOK 📦         ║");
-        Console.WriteLine("╚════════════════════════════════════════════╝");
+        Console.WriteLine("╔══════════════════════════════════════╗");
+        Console.WriteLine("║           PERHITUNGAN BALOK          ║");
+        Console.WriteLine("╚══════════════════════════════════════╝");
         Console.WriteLine();
         Console.WriteLine("Informasi:");
         Console.WriteLine("• Balok memiliki panjang, lebar, tinggi berbeda");
@@ -211,9 +211,9 @@ class PerhitunganBangunRuang
     static void TampilkanHasilKubus(double sisi, double volume, 
                                     double luasPermukaan, double kelilingAlas)
     {
-        Console.WriteLine("\n╔════════════════════════════════════════════╗");
-        Console.WriteLine("║              📊 HASIL PERHITUNGAN         ║");
-        Console.WriteLine("╚════════════════════════════════════════════╝");
+        Console.WriteLine("═════════════════════════════════════════╗");
+        Console.WriteLine("║              HASIL PERHITUNGAN         ║");
+        Console.WriteLine("╚════════════════════════════════════════╝");
         Console.WriteLine();
         Console.WriteLine("Data Kubus:");
         Console.WriteLine($"  Panjang Sisi      : {sisi} cm");
@@ -236,8 +236,8 @@ class PerhitunganBangunRuang
                                     double volume, double luasPermukaan, 
                                     double kelilingAlas)
     {
-        Console.WriteLine("\n╔════════════════════════════════════════════╗");
-        Console.WriteLine("║              📊 HASIL PERHITUNGAN         ║");
+        Console.WriteLine("╔════════════════════════════════════════════╗");
+        Console.WriteLine("║              HASIL PERHITUNGAN             ║");
         Console.WriteLine("╚════════════════════════════════════════════╝");
         Console.WriteLine();
         Console.WriteLine("Data Balok:");
